@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26a5038d-4f4f-495a-aa5a-44b220e5dcc9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IA-Centrales/com/ia/fib/centrales/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IA-Centrales/com/ia/fib/centrales/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IA-Centrales/com/ia/fib/centrales/Experiments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IA-Centrales/com/ia/fib/centrales/Experiments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IA-Centrales/com/ia/fib/centrales/SuccessorsHC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IA-Centrales/com/ia/fib/centrales/SuccessorsHC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IA-Centrales/com/ia/fib/centrales/SuccessorsSA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IA-Centrales/com/ia/fib/centrales/SuccessorsSA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ia/fib/centrales/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ia/fib/centrales/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ia/fib/centrales/Experiments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ia/fib/centrales/Experiments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorsSA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorsSA.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-258152359">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="java" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="JAVA" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="975" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="975" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-994825325">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2087" />
+          <entry key="txt" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2087" />
+          <entry key="PLAIN_TEXT" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-87382773">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="350" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="350" />
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorsHC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="207" column="46" lean-forward="true" selection-start-line="207" selection-start-column="46" selection-end-line="207" selection-end-column="46" />
+              <folding>
+                <element signature="e#16306#16307#0" expanded="true" />
+                <element signature="e#16334#16335#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Experiments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorsSA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="92" column="75" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>consumoCentral</find>
+      <find>Iterati</find>
+      <find>CHOSEN_OPERATOR</find>
+      <find>Board</find>
+      <find>getSuccessors</find>
+      <find>goal</find>
+      <find>getCostProduccio</find>
+      <find>getCe</find>
+      <find>desas</find>
+      <find>size</find>
+      <find>board</find>
+      <find>guany real</find>
+      <find>printS</find>
+      <find>cliente</find>
+      <find>CLIENTES_NUMBER</find>
+      <find>generateBoard</find>
+      <find>print</find>
+      <find>SOLUTION</find>
+      <find>solution</find>
+      <find>totalInformation</find>
+      <find>totalCost</find>
+      <find>centrales</find>
+      <find>cambiarc</find>
+      <find>printAs</find>
+      <find>printSolution</find>
+      <find>intercam</find>
+      <find>clientesNoAssignados</find>
+      <find>intercambiar</find>
+      <find>getConsumoReal</find>
+      <find>Cliente</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Board</replace>
+      <replace>getBoardSize</replace>
+      <replace>node</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/SuccesorsHC.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorHC.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/Utils/InitialStatesEnum.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/SuccesorsSA.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/Goal.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/Heuristic.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/Utils/OperatorsEnum.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/Board.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorsHC.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorsSA.java" />
+        <option value="$PROJECT_DIR$/src/com/ia/fib/centrales/Experiments.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="387" />
+    <option name="y" value="-13" />
+    <option name="width" value="1836" />
+    <option name="height" value="1009" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ia-centrales1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="IA-Centrales" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="ia-centrales1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="IA-Centrales" type="616d4139:PackageViewModuleNode" />
+              <item name="com.ia.fib.centrales" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IA-Centrales" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="IA-Centrales" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="IA-Centrales" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539543183669" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ia.fib.centrales.Main" />
+      <module name="IA-Centrales" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26a5038d-4f4f-495a-aa5a-44b220e5dcc9" name="Default Changelist" comment="" />
+      <created>1538307306067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538307306067</updated>
+    </task>
+    <task id="LOCAL-00001" summary="getConsumoReal fixed">
+      <created>1538927535911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538927535911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixing generateInitialState">
+      <created>1538937022193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538937022193</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Funciona, lento, pero funciona">
+      <created>1539538090792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539538090792</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15439956" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32914287" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89706695" visible="true" weight="0.32864866" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.10293304" side_tool="true" visible="true" weight="0.32864866" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32929516" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49733475" weight="0.21035242" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="getConsumoReal fixed" />
+    <MESSAGE value="Fixing generateInitialState" />
+    <MESSAGE value="Funciona, lento, pero funciona" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funciona, lento, pero funciona" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../dist/AIMA.jar!/aima/search/framework/Problem.class</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../dist/AIMA.jar!/aima/util/AbstractQueue.class" />
+    <entry file="jar://$PROJECT_DIR$/../dist/AIMA.jar!/aima/basic/Environment.class" />
+    <entry file="jar://$PROJECT_DIR$/../dist/AIMA.jar!/IA/Centrals/CentralsEstatFinal.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/SuccesorsHC.java" />
+    <entry file="jar://$PROJECT_DIR$/../dist/AIMA.jar!/IA/Centrals/Representacio.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorHC.java" />
+    <entry file="jar://$PROJECT_DIR$/../dist/AIMA.jar!/aima/search/framework/Problem.class" />
+    <entry file="jar://$PROJECT_DIR$/../dist/AIMA.jar!/aima/search/framework/SuccessorFunction.class" />
+    <entry file="jar://$PROJECT_DIR$/../dist/AIMA.jar!/aima/search/framework/StepCostFunction.class" />
+    <entry file="file://$PROJECT_DIR$/IA-Centrales.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../dist/AIMA.jar!/aima/search/framework/Successor.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Vector.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Utils/InitialStatesEnum.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Utils/OperatorsEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Heuristic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Goal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="92" column="75" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="207" column="46" lean-forward="true" selection-start-line="207" selection-start-column="46" selection-end-line="207" selection-end-column="46" />
+          <folding>
+            <element signature="e#16306#16307#0" expanded="true" />
+            <element signature="e#16334#16335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorsHC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/SuccessorsSA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ia/fib/centrales/Experiments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IA-Centrales</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>CentralEnergia</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
